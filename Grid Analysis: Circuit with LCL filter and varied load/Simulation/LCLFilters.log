@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Bausa\Desktop\LCL\LCLFilters.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Mar 20 20:13:42 2022
+Total elapsed time: 0.260 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2221
+traniter = 2218
+tranpoints = 1110
+accept = 1094
+rejected = 16
+matrix size = 276
+fillins = 0
+solver = Normal
+Thread vector: 17.0/8.0[8] 11.9/7.8[8] 0.8/2.9[1] 0.8/3.2[1]  2592/500
+Matrix Compiler1: 10.94 KB object code size  5.7/4.6/[0.9]
+Matrix Compiler2: 17.78 KB object code size  3.4/6.5/[0.8]
+
